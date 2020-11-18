@@ -3,3 +3,4 @@ print(a)
 a=4
 b=5
 print(a+b)
+mydict = {Vipin: rajput}
